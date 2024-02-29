@@ -8,3 +8,4 @@ pipe.to('cuda'): This line moves our initialized model pipeline to utilize CUDA,
 
 My Dog loves starring in my prompts, so I thought I'd generate a few images of him using the Stable Diffusion XL pipeline. :)
 ![prettylady2](https://github.com/0xdeadd/prettyLadyandHerDog/assets/109386134/4bc46c82-0848-4803-bc3b-7f399c67be12)
+![spaceDog](https://github.com/0xdeadd/prettyLadyandHerDog/assets/109386134/9dd5ab94-f11f-4875-9ef6-4f7e502c8795)
